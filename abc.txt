@@ -1,0 +1,6 @@
+将本地文件提交到github的四个命令
+
+git add .
+git commit -m "文件名"
+git remote -v
+git push origin master
